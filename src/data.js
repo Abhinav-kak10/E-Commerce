@@ -1,21 +1,21 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "https://cdn.shopify.com/s/files/1/0050/8402/0810/files/a-woman-wearing-the-floral-dress.jpg",
+      img: "https://i.ibb.co/X2WY4R0/imgFirst.png",
       title: "SUMMER SALE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "f5fafd",
     },
     {
       id: 2,
-      img: "https://i.imgur.com/NvUtcM6.jpg",
+      img: "https://i.ibb.co/DG69bQ4/2.png",
       title: "AUTUMN COLLECTION",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "fcf1ed",
     },
     {
       id: 3,
-      img: "https://www.thecreativecurator.com/wp-content/uploads/2020/06/different-types-of-necklines-CanvaPro-13-1024x683.jpg.webp",
+      img: "https://i.ibb.co/cXFnLLV/3.png",
       title: "LOUNGEWEAR LOVE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "fbf0f4",
