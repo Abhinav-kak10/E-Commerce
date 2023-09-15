@@ -53,7 +53,6 @@ const ImgContainer = styled.div`
 `;
 
 const Image = styled.img`
-width: 100%;
 height: 100%;
 `;
 
