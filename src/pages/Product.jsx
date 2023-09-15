@@ -127,11 +127,11 @@ const Product = () => {
         <InfoContainer>
           <Title>Denim Jumpsuit</Title>
           <Desc>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-            venenatis, dolor in finibus malesuada, lectus ipsum porta nunc, at
-            iaculis arcu nisi sed mauris. Nulla fermentum vestibulum ex, eget
-            tristique tortor pretium ut. Curabitur elit justo, consequat id
-            condimentum ac, volutpat ornare.
+          A denim jumpsuit is a stylish one-piece outfit made from denim fabric.
+          It combines the classic look of denim with the comfort and versatility of a jumpsuit.
+          Typically featuring a button or zipper front closure and adjustable straps,
+          it is a trendy and effortless choice for both casual and semi-formal occasions.
+          The denim jumpsuit exudes a chic and contemporary vibe, perfect for fashion-forward individuals.
           </Desc>
           <Price>$ 20</Price>
           <FilterContainer>
